@@ -2,7 +2,7 @@
   command = "solid-start build"
   functions = "netlify/functions"
   publish = "netlify"
-[[redirects]
+[[redirects]]
   from = "*"
   to = "https://www.calmosis.com"
   status = 301
